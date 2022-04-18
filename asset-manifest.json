@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Birthday-reminder/static/css/main.c82b9507.css",
+    "main.js": "/Birthday-reminder/static/js/main.bef23744.js",
+    "static/media/pic5.jpg": "/Birthday-reminder/static/media/pic5.80a56948cd56e63f7ee1.jpg",
+    "static/media/pic4.jpg": "/Birthday-reminder/static/media/pic4.60140db4cbafafd12671.jpg",
+    "static/media/pic1.jpg": "/Birthday-reminder/static/media/pic1.656e3da7229aed34b790.jpg",
+    "static/media/pic2.jpg": "/Birthday-reminder/static/media/pic2.705a1597f4d04a60635e.jpg",
+    "static/media/pic3.jpg": "/Birthday-reminder/static/media/pic3.05c65e9341283e507e43.jpg",
+    "index.html": "/Birthday-reminder/index.html",
+    "main.c82b9507.css.map": "/Birthday-reminder/static/css/main.c82b9507.css.map",
+    "main.bef23744.js.map": "/Birthday-reminder/static/js/main.bef23744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c82b9507.css",
+    "static/js/main.bef23744.js"
+  ]
+}
