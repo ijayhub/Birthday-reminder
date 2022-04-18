@@ -26,7 +26,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name:
+Repo_name: https://github.com/ijayhub/Birthday-reminder/tree/master
 
 Hosted link: https://ijayhub.github.io/Birthday-reminder/
 
