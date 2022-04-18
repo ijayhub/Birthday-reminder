@@ -26,7 +26,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: 
+Repo_name:
+
+Hosted link: https://ijayhub.github.io/Birthday-reminder/
 
 
 project_title: Birthday Reminder Web App
