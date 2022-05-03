@@ -1,7 +1,7 @@
 
 <div id="top"></div>
 <div align="center">
-  <a href="https://github.com/https://github.comchingu-voyages/v37-toucans-team-01">
+  <a href=" https://ijayhub.github.io/Birthday-reminder/">
     <img src="./src/img/birthday-reminder.png" alt="App">
   </a>
 
